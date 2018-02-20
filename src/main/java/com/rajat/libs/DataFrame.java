@@ -1,4 +1,4 @@
-package java.com.rajat.libs.DataFrameLibrary;
+package com.rajat.libs;
 
 import java.util.List;
 
